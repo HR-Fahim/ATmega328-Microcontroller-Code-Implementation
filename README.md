@@ -2,6 +2,8 @@
 
 The purpose of the Digital Clock System project is to design and build a twelve-hour digital clock using an Arduino Nano microcontroller and a 16x2 LCD screen. The project aims to provide an alternative to traditional analog clocks by offering a low-cost and easily replicable digital clock solution. By displaying time digitally, the project seeks to improve accuracy and readability while maintaining simplicity in design. The goal is to create a functional and accessible digital clock that can be utilized in various settings.
 
+<sub> ****P.S.*** The project was completed under CSE323 (Operating Systems Design) course offered by North South University.*<sub/>
+
 # Microcontroller: Arduino Nano
 
 The Digital Clock System project utilizes the Arduino Nano microcontroller as the core component for implementing the digital clock functionality. The Arduino Nano is a small, affordable microcontroller board known for its computational capabilities and versatility in embedded systems projects.
