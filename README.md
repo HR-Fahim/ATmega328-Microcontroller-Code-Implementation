@@ -4,7 +4,7 @@ The purpose of the Digital Clock System project is to design and build a twelve-
 
 <sub> ****P.S.*** The project was completed under CSE323 (Operating Systems Design) course offered by North South University.*<sub/>
 
-# Hardware Desgin
+# Hardware Design
 
 ![Hardware Design](https://github.com/HR-Fahim/Microcontroller-Code-Implementation/assets/66734379/be3435f6-5b17-454d-84dc-c59fa023c3a0)
 
